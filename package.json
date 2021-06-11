@@ -66,7 +66,6 @@
   "bugs": {
     "url": "https://github.com/gndx/platzi-store/issues"
   },
-  "homepage": ".",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
